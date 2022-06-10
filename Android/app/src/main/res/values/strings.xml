@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelmetDetection</string>
+    <string name="submit">拍照上传</string>
+    <string name="ok">完成</string>
+</resources>
